@@ -1,19 +1,19 @@
 {
   "name": "nodejs-server",
   "version": "1.0.0",
-  "description": "Out first node.js project",
+  "description": "Our first node.js project ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BillytheG206/nodejs-server.git"
+    "url": "git+https://github.com/Dylxnmiller/NodeJS-Server.git"
   },
-  "author": "Bill Le",
+  "author": "Dylan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BillytheG206/nodejs-server/issues"
+    "url": "https://github.com/Dylxnmiller/NodeJS-Server/issues"
   },
-  "homepage": "https://github.com/BillytheG206/nodejs-server#readme"
+  "homepage": "https://github.com/Dylxnmiller/NodeJS-Server#readme"
 }

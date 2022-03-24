@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dylxnmiller/NodeJS-Server.git"
+    "url": "git+https://github.com/Azzyman99/NodeJS-Server.git"
   },
-  "author": "Dylan",
+  "author": "Osvaldo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dylxnmiller/NodeJS-Server/issues"
+    "url": "https://github.com/Azzyman99/NodeJS-Server/issues"
   },
-  "homepage": "https://github.com/Dylxnmiller/NodeJS-Server#readme"
+  "homepage": "https://github.com/Azzyman99/NodeJS-Server#readme"
 }
